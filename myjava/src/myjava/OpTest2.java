@@ -17,8 +17,9 @@ public class OpTest2 {
 	System.out.println("천원짜리는 "+countOf10);
 	System.out.println("동전은 "+countOfwon);
 	
-	
-	System.out.println();
-	
+	amount = 3*4 /3+ 5-7 + 6%3;
+	System.out.println(amount);
 	}
+	
+	
 }
